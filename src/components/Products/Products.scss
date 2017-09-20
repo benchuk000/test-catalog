@@ -1,0 +1,14 @@
+.sort {
+  display: flex;
+  width: 150px;
+  padding-top: 25px;
+
+  &__list__item {
+    cursor: pointer;
+  }
+
+  &__name {
+    margin-right: 15px;
+  }
+}
+

@@ -1,0 +1,34 @@
+.toolbar {
+  height: 130px;
+  background-color: rgb(245,246,247);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+
+  &__inputs {
+    flex-basis: 300px;
+    display: flex;
+    justify-content: space-between;
+
+    &__checkbox {
+  
+    }
+   
+  }
+  &__button {
+    width: 195px;
+    height: 50px;
+    background-color: #aa9b77;
+    border: none;
+    border-radius: 3px;
+    color:#ffffff;
+  }
+
+}
+
+@media (max-width: 517px) {
+  .toolbar {
+    justify-content: center;
+  }
+}

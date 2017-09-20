@@ -1,0 +1,28 @@
+$checkbox-color: #aa9b77;
+
+.checkbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+
+  &__icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 17px;
+    height: 17px;
+    border: 2px solid $checkbox-color;
+    border-radius: 2px; 
+  }
+
+  .fa {
+    color: $checkbox-color;
+  }
+
+  &__label {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+
+}

@@ -1,0 +1,130 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 5,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 2,
+      "type": "children",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 3,
+      "sizes": ["S","M","L"],
+      "colors": ["blue","red"]
+    },
+    {
+      "id": 3,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 10,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 4,
+      "type": "women",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 32,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 5,
+      "type": "women",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 14,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 6,
+      "type": "children",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 6,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 7,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 2,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 8,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 41,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 9,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 3,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 10,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 9,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 11,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 5,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 12,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 11,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 23,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 14,
+      "type": "men",
+      "name": "T-SHIRT",
+      "img": "https://assets0.printio.ru/assets/products/tee/large-back_model_photo/black-40c8d77e6eedd46a8c2a2236ba9e53c3.png",
+      "price": 72,
+      "sizes": ["S","M","L"],
+      "colors": ["green","blue","black"]
+    }
+  ]
+}
