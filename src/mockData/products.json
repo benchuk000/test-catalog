@@ -125,6 +125,87 @@
       "price": 72,
       "sizes": ["S","M","L"],
       "colors": ["green","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "women",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 27,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "women",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 23,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "women",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 11,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "women",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 18,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "children",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 17,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "children",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 16,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "children",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 3,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "children",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 10,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
+    },
+    {
+      "id": 13,
+      "type": "children",
+      "name": "T-SHIRT",
+      "img": "http://cdn7.s.kolorado.ru/products/1/19/191/191709/118_1_3_zoom.png",
+      "price": 19,
+      "sizes": ["S","M","L"],
+      "colors": ["red","blue","black"]
     }
   ]
 }
